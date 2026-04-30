@@ -242,8 +242,6 @@ credit-card-segmentation/
 ## 👤 Author
 
 **Devina Agustina**  
-Batch: FTDS-052-RMT  
-Phase 1 — Milestone 6
 
 ---
 
