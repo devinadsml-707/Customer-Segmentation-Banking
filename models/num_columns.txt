@@ -1,0 +1,1 @@
+["Balance", "Balance Frequency", "Purchases", "One-off Purchases", "Installments Purchases", "Cash Advance", "Purchases Frequency", "Purchases Installments Frequency", "Cash Advance Frequency", "Purchases Transaction", "Credit Limit", "Payments", "Minimum Payments", "Full Payment Percentage", "Tenure"]
